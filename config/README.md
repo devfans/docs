@@ -41,8 +41,6 @@ Optimistic | <ul><li> 0xdaA64a287B043DBeC2413B18FcAE6A0BBd710113</li><li>0xAd371
 Metis | <ul><li> 0xe682225aFff2CB1C5beB6E3dd0ACF523bE330cf7</li><li>0x21b59D73B4716a53cFE7804Baa31D0C1f75AE0cb</li></ul>
 
 
-
-
 ###### [Back to top](README.md#menu)
 ## Decentralized Application MainNet Nodes
 Chain | IP | Rpc Port
