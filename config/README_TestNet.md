@@ -12,7 +12,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | **[Neo N3-88](README_TestNet.md#NeoN3)** | **[Polygon-202](README_TestNet.md#Polygon)**           | **[Zilliqa-111](README_TestNet.md#Zilliqa)**       | **[Arbitrum-205](README_TestNet.md#Arbitrum)** | **[xDAI-206](README_TestNet.md#xDAI)**        |
 | **[Avalanche-209](README_TestNet.md#Avalanche)**    | **[Fantom-208](README_TestNet.md#Fantom)**             | **[Optimistic-210](README_TestNet.md#Optimistic)** | **[Metis-300](README_TestNet.md#Metis)**       | **[Goerli-502](README_TestNet.md#Goerli)** |
 | **[Rinkeby-402](README_TestNet.md#Rinkeby)** | **[Kovan-302](README_TestNet.md#Kovan)** | **[Pixie-316](README_TestNet.md#Pixie)** |  **[Boba-400](README_TestNet.md#Boba)** |**[Oasis-500](README_TestNet.md#Oasis)** |
-|**[Hoo-603](README_TestNet.md#Hoo)**  |**[Bytom-701](README_TestNet.md#Bytom)**  |**[Harmony-800](README_TestNet.md#Harmony)** |**[Starcoin-318](README_TestNet.md#Starcoin)**| 
+|**[Hoo-603](README_TestNet.md#Hoo)**  |**[Bytom-701](README_TestNet.md#Bytom)**  |**[Harmony-800](README_TestNet.md#Harmony)** |**[Starcoin-318](README_TestNet.md#Starcoin)**  |**[Milkomeda-810](README_TestNet.md#Milkomeda C1)** |
 ### Quick Index
 
 | **[Router And ChainId](README_TestNet.md#Router-And-ChainId)** | **[Decentralized Application TestNet Nodes](README_TestNet.md#Decentralized-Application-TestNet-Nodes)** |
@@ -452,6 +452,18 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 | LockProxy  |0x0AF53d318De279C8e67FcC6914acF387CFaA8B7E  | Lock Proxy contract hash                |
 | Wrapper    |0xc927f0EF4f25E19a40F0Cb34da841B45c13649fd  |                                         |
 | WrapperV3  |0xc927f0EF4f25E19a40F0Cb34da841B45c13649fd  |                                         |
+
+
+###### [Back to top](README_TestNet.md#menu)
+## Milkomeda C1
+| Type       | Contract Hash                              | Desc                                    |
+| ---------- | ------------------------------------------ | --------------------------------------- |
+| CCD        |0xa2b760C09838f5606Ed94D0C7861B4CA085625a7  | Cross Chain Data contract hash          |
+| CCM        |0xFcf7A3207b7442F29a9f88e2d7638633B494843f  | Cross Chain Manager contract hash       |
+| CCMP       |0x1FbC3872515982254DabC7Ad50d556513316bC7a  | Cross Chain Manager Proxy contract hash |
+| LockProxy  |  | Lock Proxy contract hash                |
+| Wrapper    |  |                                         |
+| WrapperV3  |  |                                         |
 
 ###### [Back to top](README_TestNet.md#menu)
 ## Starcoin
